@@ -3,6 +3,7 @@
 
 ### Tema: Análisis Predictivo de Composición Corporal
 
+![portada-git-g18](https://github.com/julio-ruani-ispc/Grupo18-PracticaProfesionalizante/assets/112911957/bf6a2253-b37d-49cb-a655-f1710d287bff)
 
 
 
