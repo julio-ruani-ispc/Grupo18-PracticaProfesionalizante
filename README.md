@@ -77,6 +77,12 @@ El proyecto consiste en desarrollar un modelo de aprendizaje que pueda predecir 
 
 #######################################################################################
 
+## Tablero de Trello:
+
+[Link del tablero: Práctica_Profesionalizante_1_Grupo_N18](https://trello.com/b/FYwfPsFE/práctica-profesionalizante-1grupo-18)
+
+#######################################################################################
+
 ## Entrega:
 
 Fecha de presentación: xx/xx/2023 - xx/xx/2023 | Hora: xx:xx Hs.
