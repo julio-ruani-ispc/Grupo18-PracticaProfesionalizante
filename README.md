@@ -34,7 +34,7 @@
 * Fomentar el trabajo en equipo, la comunicación y la resolución de problemas en situaciones reales.
 * Potencias las competencias necesarias para insertarse en el mundo laboral actual.
 
-### **Descripción del proyecto**
+## Descripción del proyecto:
 
 El proyecto consiste en desarrollar un modelo de aprendizaje que pueda predecir la composición corporal de una persona, basado en un conjunto de datos con información alimenticia y de ejercicios.
 
@@ -59,7 +59,7 @@ El proyecto consiste en desarrollar un modelo de aprendizaje que pueda predecir 
 * Conclusión y futuro plan de acción para iniciar otro ciclo.
     - Evaluar hiper parámetros y estrategias de entrenamiento.
 
-### Repetir esto hasta lograr un modelo consistente y de performante
+**Repetir esto hasta lograr un modelo consistente y de performante**
 
 #######################################################################################
 
@@ -79,7 +79,7 @@ El proyecto consiste en desarrollar un modelo de aprendizaje que pueda predecir 
 
 ## Entrega:
 
-Fecha de presentación: xx/xx/2023 - xx/xx/2023 Hora: xx:xx Hs.
+Fecha de presentación: xx/xx/2023 - xx/xx/2023 | Hora: xx:xx Hs.
 
 Exposición:  xx/xx/2023
 
