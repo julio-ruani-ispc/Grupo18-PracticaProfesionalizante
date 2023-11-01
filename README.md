@@ -79,7 +79,7 @@ El proyecto consiste en desarrollar un modelo de aprendizaje que pueda predecir 
 
 ## Entrega:
 
-Fecha de presentación: xx/xx/2023 - xx/xx/2023 | Hora: xx:xx Hs.
+Fecha de presentación: 01/11/2023 
 
 Exposición:  xx/xx/2023
 
